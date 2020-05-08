@@ -1,0 +1,6 @@
+django
+django-bootstrap4
+pillow                               # Поддержка графики
+easy-thumbnails                      # Создание миниатюр
+django-cleanup                       # Удаление изображений при удалений из бд
+django-simple-captcha
